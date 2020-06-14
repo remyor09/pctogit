@@ -5,3 +5,6 @@ git add -A  (agregar todos los archivos del directorio)
 git rm --cached nombreArchivo (retirar archivo del index)
 git log (ver commits)
 git commit -m "nombre del commit"
+git commit checkout codigoCommit
+git reset --soft codigoCommit
+git reset --hard codigoCommit
