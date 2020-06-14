@@ -8,3 +8,9 @@ git commit -m "nombre del commit"
 git commit checkout codigoCommit
 git reset --soft codigoCommit
 git reset --hard codigoCommit
+
+git branch "nombrenuevarama"
+git checkout "nombrerama" (pasarse a otra rama)
+git merge
+
+https://github.com/Daniela-git/CodigoFacilito.git
